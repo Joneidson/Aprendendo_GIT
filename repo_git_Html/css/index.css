@@ -19,3 +19,16 @@ p {
     line-height: 1.6;
     margin: 10px 0;
 }
+.button1{
+    background-color: #4400ff; 
+    border: none;
+    color: white;
+    color: #f70707;
+}
+
+.button2{
+    background-color: #f70707; 
+    border: none;
+    color: white;
+    color: #4400ff;
+}
