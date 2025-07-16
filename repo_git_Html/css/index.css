@@ -8,14 +8,14 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    color: #555;
+    color: #020202;
     margin-top: 15px;
     text-align: left;
 }
 
 p {
     font-size: 1em;
-    color: #666;
+    color: #000000;
     line-height: 1.6;
     margin: 10px 0;
 }
@@ -31,4 +31,11 @@ p {
     border: none;
     color: white;
     color: #4400ff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #797676;
+    margin: 0;
+    padding: 20px;
 }
