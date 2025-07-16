@@ -20,17 +20,16 @@ p {
     margin: 10px 0;
 }
 .button1{
-    background-color: #4400ff; 
+    background-color: #000000; 
     border: none;
     color: white;
     color: #f70707;
 }
 
 .button2{
-    background-color: #f70707; 
+    background-color: #000000; 
     border: none;
-    color: white;
-    color: #4400ff;
+    color: #ff0000;
 }
 
 body {
